@@ -22,5 +22,5 @@ Tools:
 - Chrome DevTools
 - Postman
 
- Goals^
+ Goals:
 To become a Junior QA Engineer in a product or outsourcing company
